@@ -1,3 +1,3 @@
-module github.com/Quantumoffices/gossdb
+module github.com/yxlwfds/gossdb
 
 go 1.13
